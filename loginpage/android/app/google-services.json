@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146454727506",
+    "firebase_url": "https://g2connect.firebaseio.com",
+    "project_id": "g2connect",
+    "storage_bucket": "g2connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146454727506:android:25a2e79e0e0337520e488b",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146454727506-v48iqdchae5h17ua2f76860uaenu7d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgj_9FoweUvgwsEqqP2UcX4ApI-vuGjUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146454727506-v48iqdchae5h17ua2f76860uaenu7d12.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146454727506-dq0qg02m3ncl0qlhnjqckrghkmr0d6th.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginpage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
