@@ -1,0 +1,66 @@
+{
+    "Users" : [
+    {
+        "Name": "Florian",
+        "Gender": "Man",
+        "Age": 29,
+        "Picture": "../men/random1"
+    },
+    {
+        "Name": "Pierre",
+        "Age": 24,
+        "Gender": "Man",
+        "Picture": "../men/random2"
+    },
+    {
+        "Name": "Dorian",
+        "Age": 25,
+        "Gender": "Man",
+        "Picture": "../men/random3"
+    },
+    {
+        "Name": "Thibaut",
+        "Age": 20,
+        "Gender": "Man",
+        "Picture": "../men/random4"
+    },
+    {
+        "Name": "Joseph",
+        "Age": 27,
+        "Gender": "Man",
+        "Picture": "../men/random5"
+    },
+    {
+        "Name": "Mylene",
+        "Age": 26,
+        "Gender": "Woman",
+        "Picture": "../women/random1"
+    },
+    {
+        "Name": "Eva-Marie",
+        "Age": 24,
+        "Gender": "Woman",
+        "Picture": "../women/random2"
+    },
+    {
+        "Name": "Melanie",
+        "Age": 23,
+        "Gender": "Woman",
+        "Picture": "../women/random3"
+    },
+    {
+        "Name": "Roxane",
+        "Age": 28,
+        "Gender": "Woman",
+        "Picture": "../women/random4"
+    },
+    {
+        "Name": "Pauline",
+        "Age": 19,
+        "Gender": "Woman",
+        "Picture": "../women/random5"
+    }
+    ]
+}
+    
+

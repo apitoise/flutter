@@ -43,6 +43,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/images/g2logo.png
+    - assets/images/google_logo.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

@@ -79,7 +79,7 @@ class HomePageState extends State<HomePage> {
                     ..onTap = () async => await _auth.sendPasswordResetEmail(
                         email: _emailAddress.text),
                 )),
-                signInButton(),
+                //  signInButton(),
                 FlatButton(
                     child:
                         Text('SIGN UP', style: TextStyle(color: Colors.white)),
