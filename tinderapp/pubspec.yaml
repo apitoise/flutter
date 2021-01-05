@@ -55,13 +55,17 @@ flutter:
   - assets/men/random3.jpg
   - assets/men/random4.jpg
   - assets/men/random5.jpg
+  - assets/men/random6.jpg
+  - assets/men/random7.jpg
+  - assets/men/random8.jpg
+  - assets/men/random9.jpg
   - assets/women/random1.jpg
   - assets/women/random2.jpg
   - assets/women/random3.jpg
   - assets/women/random4.jpg
   - assets/women/random5.jpg
   - assets/tinderlogolike.png
-
+  - assets/api/api.json
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 

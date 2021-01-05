@@ -13,16 +13,16 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'TinderLike',
-      initialRoute: '/',
-      routes: {
-        '/': (context) {
-          return ChangeNotifierProvider(
-              create: (_) => ApiProvider(), child: MyHomePage());
-        },
-        '/swipeview': (context) => SwipeView()
-      },
-    );
+    return ChangeNotifierProvider(
+        create: (_) => ApiProvider(),
+        child: MaterialApp(
+          debugShowCheckedModeBanner: false,
+          title: 'TinderLike',
+          initialRoute: '/',
+          routes: {
+            '/': (context) => MyHomePage(),
+            '/swipeview': (context) => SwipeView()
+          },
+        ));
   }
 }

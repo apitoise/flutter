@@ -4,61 +4,99 @@
         "Name": "Florian",
         "Gender": "Man",
         "Age": 29,
-        "Picture": "../men/random1"
+        "Job": "Train's Engineer",
+        "Picture": "assets/men/random1.jpg"
     },
     {
         "Name": "Pierre",
         "Age": 24,
         "Gender": "Man",
-        "Picture": "../men/random2"
+        "Job": "Apple",
+        "Picture": "assets/men/random2.jpg"
     },
     {
         "Name": "Dorian",
         "Age": 25,
         "Gender": "Man",
-        "Picture": "../men/random3"
+        "Job": "Chauffagiste",
+        "Picture": "assets/men/random3.jpg"
     },
     {
         "Name": "Thibaut",
         "Age": 20,
         "Gender": "Man",
-        "Picture": "../men/random4"
+        "Job": "Web Developper",
+        "Picture": "assets/men/random4.jpg"
     },
     {
         "Name": "Joseph",
         "Age": 27,
         "Gender": "Man",
-        "Picture": "../men/random5"
+        "Job": "ECU Software & Functions engineer",
+        "Picture": "assets/men/random5.jpg"
     },
     {
         "Name": "Mylene",
         "Age": 26,
         "Gender": "Woman",
-        "Picture": "../women/random1"
+        "Job": "Maroquiniere",
+        "Picture": "assets/women/random1.jpg"
     },
     {
         "Name": "Eva-Marie",
         "Age": 24,
         "Gender": "Woman",
-        "Picture": "../women/random2"
+        "Job": "Europe Convergence",
+        "Picture": "assets/women/random2.jpg"
     },
     {
         "Name": "Melanie",
         "Age": 23,
         "Gender": "Woman",
-        "Picture": "../women/random3"
+        "Job": "Droit",
+        "Picture": "assets/women/random3.jpg"
     },
     {
         "Name": "Roxane",
         "Age": 28,
         "Gender": "Woman",
-        "Picture": "../women/random4"
+        "Job": "Flippante",
+        "Picture": "assets/women/random4.jpg"
     },
     {
         "Name": "Pauline",
         "Age": 19,
         "Gender": "Woman",
-        "Picture": "../women/random5"
+        "Job": "Marketing Management at Bonduelle",
+        "Picture": "assets/women/random5.jpg"
+    },
+    {
+        "Name": "Taiioken",
+        "Age": 20,
+        "Gender": "Men",
+        "Job": "Ultra Beau Gosse",
+        "Picture": "assets/men/random6.jpg"
+    },
+    {
+        "Name": "Bastien",
+        "Age": 22,
+        "Gender": "Men",
+        "Job": "Preparateur de commande",
+        "Picture": "assets/men/random7.jpg"
+    },
+    {
+        "Name": "Arthur",
+        "Age": 25,
+        "Gender": "Men",
+        "Job": "Partout, mais surtout dans ton trou",
+        "Picture": "assets/men/random8.jpg"
+    },
+    {
+        "Name": "Maxime",
+        "Age": 25,
+        "Gender": "Men",
+        "Job": "Joueur Vitality R6",
+        "Picture": "assets/men/random9.jpg"
     }
     ]
 }

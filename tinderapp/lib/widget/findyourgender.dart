@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:smart_select/smart_select.dart';
 import 'package:tinderapp/providers/apiProvider.dart';
 import 'package:provider/provider.dart';
 
@@ -9,7 +8,6 @@ class FindYourGender extends StatefulWidget {
 }
 
 class _FindYourGenderState extends State<FindYourGender> {
-  // String _gender;
   bool men = false;
   bool women = false;
 
